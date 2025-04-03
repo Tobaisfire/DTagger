@@ -1,0 +1,15 @@
+streamlit
+joblib
+pickle-mixin
+numpy
+torch
+pandas
+matplotlib
+seaborn
+transformers
+tensorflow
+indic-nlp-library
+nltk
+altair
+streamlit-option-menu
+google-cloud-storage
